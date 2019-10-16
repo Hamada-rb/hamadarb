@@ -12,7 +12,7 @@ TI"¤<h1>A Brand New Nanoc Site</h1>
 
 <p>If you need any help with customizing your Nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 ;
-T:pre@:_0U;[0I"<!DOCTYPE HTML>
+T:pre@:_0U;[0I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -31,7 +31,7 @@ T:pre@:_0U;[0I"<!DOCTYPE HTML>
   <body>
     <div class="header">
         <nav>
-    <div class="nav-wrapper red darken-4">
+    <div class="nav-wrapper red darken-4 z-depth-4">
       <a href="#" class="brand-logo center">Hamada.rb</a>
     </div>
   </nav>
