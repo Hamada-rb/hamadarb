@@ -1,7 +1,7 @@
 {:	data{o:Nanoc::Core::Identifier:
 @type:	full:@stringI"/index.html:ET{:default{
 :rawU: Nanoc::Core::TextualContent[I";/mnt/c/Users/shunh/Desktop/hamadarb/content/index.html;
-TI"~<div class="container">
+TI"É<div class="container">
   <h2 class="center">Welcome Hamada.rb!</h2>
 
   <div class="container">
@@ -78,8 +78,15 @@ TI"~<div class="container">
     let options = {throttle: 200, scrollOffset: 0};
     let instances = M.ScrollSpy.init(elems, options);
   });
-</script>;
-T:pre@:_0U;[0I"ƒ<!DOCTYPE HTML>
+</script>
+
+<style>
+.link-btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+</style>;
+T:pre@:_0U;[0I"Î<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -186,6 +193,13 @@ T:pre@:_0U;[0I"ƒ<!DOCTYPE HTML>
     let instances = M.ScrollSpy.init(elems, options);
   });
 </script>
+
+<style>
+.link-btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+</style>
     </div>
     <div class="footer">
       <footer class="page-footer red darken-3">
@@ -217,8 +231,5 @@ T:pre@:_0U;[0I"ƒ<!DOCTYPE HTML>
 ;
 T:	post@:	last@o;;;;	I"/stylesheet.css;
 T{;{	;U;[I"?/mnt/c/Users/shunh/Desktop/hamadarb/content/stylesheet.css;
-TI"=.link-btn {
-  margin-top: 20px;
-  margin-bottom: 20px;
-};
+TI" ;
 T;@;@;@:versioni
