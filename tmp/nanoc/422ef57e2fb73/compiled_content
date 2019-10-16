@@ -12,7 +12,7 @@ TI"¤<h1>A Brand New Nanoc Site</h1>
 
 <p>If you need any help with customizing your Nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
 ;
-T:pre@:_0U;[0I"<!DOCTYPE HTML>
+T:pre@:_0U;[0I"	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -21,8 +21,21 @@ T:pre@:_0U;[0I"<!DOCTYPE HTML>
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc 4.11.12">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
   </head>
   <body>
+    <div class="header">
+        <nav>
+    <div class="nav-wrapper red lighten-1">
+      <a href="#" class="brand-logo center">Hamada.rb</a>
+    </div>
+  </nav>
+    </div>
     <div id="main">
       <h1>A Brand New Nanoc Site</h1>
 

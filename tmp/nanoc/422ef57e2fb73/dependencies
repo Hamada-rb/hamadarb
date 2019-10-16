@@ -1,2 +1,6 @@
 {:	data{:
-edges[[ii{	:raw_contentT:attributesF:compiled_contentF:	pathF:vertices[	0I"item:/index.html:ETI"item:/stylesheet.css;TI"layout:/default.html;T:versioni
+edges[[ii{	:raw_contentT:attributesF:compiled_contentF:	pathF[i
+i{	;o:Set:
+@hash}I"/header.*:ETTF;F;	F;
+F[i	i{	;T;F;	F;
+F:vertices[0I"item:/index.html;TI"item:/stylesheet.css;TI"layout:/default.html;TI"layout:/header.html;TI"layouts;T:versioni
