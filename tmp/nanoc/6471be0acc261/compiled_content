@@ -1,18 +1,18 @@
 {:	data{o:Nanoc::Core::Identifier:
 @type:	full:@stringI"/index.html:ET{:default{
 :rawU: Nanoc::Core::TextualContent[I";/mnt/c/Users/shunh/Desktop/hamadarb/content/index.html;
-TI"f<div class="container">
-  <h1 class="center">Welcome to Hamada.rb!</h1>
+TI"~<div class="container">
+  <h2 class="center">Welcome Hamada.rb!</h2>
 
   <div class="container">
     <div class="row">
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#hamadarb">Hamada.rb?</a>
       </div>
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#joinus">Join us!</a>
       </div>
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#contactus">Contact us!</a>
       </div>
     </div>
@@ -21,7 +21,7 @@ TI"f<div class="container">
   <hr>
 
   <div class="container section scrollspy" id="hamadarb">
-    <h1 class="center">Hamada.rb?</h1>
+    <h2 class="center">Hamada.rb?</h2>
     <div class="flow-text">
       <p class="center">Hamada.rb とは</p>
       <p class="center">島根県西部にある浜田市周辺のRubyistのための地域.rbです</p>
@@ -36,7 +36,7 @@ TI"f<div class="container">
   <hr>
 
   <div class="container section scrollspy" id="joinus">
-    <h1 class="center">Join us!</h1>
+    <h2 class="center">Join us!</h2>
     <div class="flow-text">
       <p class="center">Hamada.rbへの参加はConnpassにて管理しています</p>
       <p class="center">参加されてみたい方は下記から</p>
@@ -48,7 +48,7 @@ TI"f<div class="container">
   <hr>
   
   <div class="container section scrollspy" id="contactus">
-    <h1 class="center">Contact us!</h1>
+    <h2 class="center">Contact us!</h2>
     <div class="row">
       <div class="col s12 m4 center-align">
         <a href="mailto::gamelinks007@gmail.com"><i class="fas fa-envelope large"></i></a>
@@ -79,7 +79,7 @@ TI"f<div class="container">
     let instances = M.ScrollSpy.init(elems, options);
   });
 </script>;
-T:pre@:_0U;[0I"�<!DOCTYPE HTML>
+T:pre@:_0U;[0I"�<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -101,27 +101,25 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
   </head>
   <body>
     <div class="header">
-      <div class="navbar-fixed">
-  <nav>
+      <nav>
     <div class="nav-wrapper red darken-4 z-depth-4">
-      <a href="/" class="brand-logo center">Hamada.rb</a>
+        <a href="/" class="brand-logo center">Hamada.rb</a>
     </div>
-  </nav>
-</div>
+</nav>
     </div>
     <div id="main">
       <div class="container">
-  <h1 class="center">Welcome to Hamada.rb!</h1>
+  <h2 class="center">Welcome Hamada.rb!</h2>
 
   <div class="container">
     <div class="row">
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#hamadarb">Hamada.rb?</a>
       </div>
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#joinus">Join us!</a>
       </div>
-      <div class="col s12 m4 center-align">
+      <div class="col s12 m4 center-align link-btn">
         <a class="waves-effect waves-teal btn-large red lighten-1 white-text hoverable" href="#contactus">Contact us!</a>
       </div>
     </div>
@@ -130,7 +128,7 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
   <hr>
 
   <div class="container section scrollspy" id="hamadarb">
-    <h1 class="center">Hamada.rb?</h1>
+    <h2 class="center">Hamada.rb?</h2>
     <div class="flow-text">
       <p class="center">Hamada.rb とは</p>
       <p class="center">島根県西部にある浜田市周辺のRubyistのための地域.rbです</p>
@@ -145,7 +143,7 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
   <hr>
 
   <div class="container section scrollspy" id="joinus">
-    <h1 class="center">Join us!</h1>
+    <h2 class="center">Join us!</h2>
     <div class="flow-text">
       <p class="center">Hamada.rbへの参加はConnpassにて管理しています</p>
       <p class="center">参加されてみたい方は下記から</p>
@@ -157,7 +155,7 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
   <hr>
   
   <div class="container section scrollspy" id="contactus">
-    <h1 class="center">Contact us!</h1>
+    <h2 class="center">Contact us!</h2>
     <div class="row">
       <div class="col s12 m4 center-align">
         <a href="mailto::gamelinks007@gmail.com"><i class="fas fa-envelope large"></i></a>
@@ -219,5 +217,8 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
 ;
 T:	post@:	last@o;;;;	I"/stylesheet.css;
 T{;{	;U;[I"?/mnt/c/Users/shunh/Desktop/hamadarb/content/stylesheet.css;
-TI" ;
+TI"=.link-btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+};
 T;@;@;@:versioni
