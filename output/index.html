@@ -42,18 +42,25 @@
     </div>
   </div>
 
-  <div class="container" id="hamadarb">
+  <div class="container section scrollspy" id="hamadarb">
     <h1 class="center">Hamada.rb?</h1>
   </div>
 
-  <div class="container" id="joinus">
+  <div class="container section scrollspy" id="joinus">
     <h1 class="center">Join us!</h1>
   </div>
 
-  <div class="container" id="contactus">
+  <div class="container section scrollspy" id="contactus">
     <h1 class="center">Contact us!</h1>
   </div>
 </div>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.scrollspy');
+    var instances = M.ScrollSpy.init(elems, options);
+  });
+</script>
     </div>
   </body>
 </html>
