@@ -19,22 +19,50 @@ title: Home
     </div>
   </div>
 
+  <hr>
+
   <div class="container section scrollspy" id="hamadarb">
     <h1 class="center">Hamada.rb?</h1>
+    <div class="flow-text">
+      <p class="center">Hamada.rb とは</p>
+      <p class="center">島根県西部にある浜田市周辺のRubyistのための地域.rbです</p>
+      <p class="center">Rubyを仕事で扱うプログラマーや</p>
+      <p class="center">Rubyを学んでみたい初心者が集まって色々やるコミュニティです</p>
+      <p class="center">毎月第三火曜日の19時から</p>
+      <p class="center">浜田公民館(浜田市殿町6-1)にて開催しています</p>
+      <p class="center">次回は11月12日(火)です</p>
+    </div>
   </div>
+
+  <hr>
 
   <div class="container section scrollspy" id="joinus">
     <h1 class="center">Join us!</h1>
+    <div class="flow-text">
+      <p class="center">Hamada.rbへの参加はConnpassにて管理しています</p>
+      <p class="center">参加されてみたい方は下記から</p>
+      <p class="center">Hamada.rbへ参加申請をお願いいたします</p>
+      <p class="center"><a href="https://hamadarb.connpass.com/" class="btn-large red darken-1">Join us!</a></p>
+    </div>
   </div>
 
+  <hr>
+  
   <div class="container section scrollspy" id="contactus">
     <h1 class="center">Contact us!</h1>
+    <div class="flow-text">
+      <p class="center">mail:gamelinks007@gmail.com</p>
+      <p class="center">twitter:https://twitter.com/RbHamada</p>
+    </div>
   </div>
+
+  <hr>
 </div>
 
 <script type="text/javascript">
   document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.scrollspy');
-    var instances = M.ScrollSpy.init(elems, options);
+    let elems = document.querySelectorAll('.scrollspy');
+    let options = {throttle: 200, scrollOffset: 0};
+    let instances = M.ScrollSpy.init(elems, options);
   });
 </script>
