@@ -86,12 +86,12 @@ TI"É<div class="container">
   margin-bottom: 20px;
 }
 </style>;
-T:pre@:_0U;[0I"Î<!DOCTYPE HTML>
+T:pre@:_0U;[0I"Ñ<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A Brand New Nanoc Site - Home</title>
+    <title>Reagional Ruby for Hamada!  Home</title>
     <link rel="stylesheet" href="/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
@@ -110,7 +110,7 @@ T:pre@:_0U;[0I"Î<!DOCTYPE HTML>
     <div class="header">
       <nav>
     <div class="nav-wrapper red darken-4 z-depth-4">
-        <a href="/" class="brand-logo center">Hamada.rb</a>
+        <a href="#" class="brand-logo center">Hamada.rb</a>
     </div>
 </nav>
     </div>
