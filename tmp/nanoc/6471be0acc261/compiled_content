@@ -1,7 +1,7 @@
 {:	data{o:Nanoc::Core::Identifier:
 @type:	full:@stringI"/index.html:ET{:default{
 :rawU: Nanoc::Core::TextualContent[I";/mnt/c/Users/shunh/Desktop/hamadarb/content/index.html;
-TI"�<div class="container">
+TI"�<div class="container">
   <h2 class="center">Welcome Hamada.rb!</h2>
 
   <div class="container">
@@ -28,8 +28,8 @@ TI"�<div class="container">
       <p class="center">Rubyを仕事で扱うプログラマーや</p>
       <p class="center">Rubyを学んでみたい初心者が集まって色々やるコミュニティです</p>
       <p class="center">毎月第三火曜日の19時から</p>
-      <p class="center">浜田公民館(浜田市殿町6-1)にて開催しています</p>
-      <p class="center">次回は9月8日(火)です</p>
+      <p class="center">Zoomにて開催しています</p>
+      <p class="center">次回は10月13日(火)です</p>
     </div>
   </div>
 
@@ -86,7 +86,7 @@ TI"�<div class="container">
   margin-bottom: 20px;
 }
 </style>;
-T:pre@:_0U;[0I"�<!DOCTYPE HTML>
+T:pre@:_0U;[0I"x<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -142,8 +142,8 @@ T:pre@:_0U;[0I"�<!DOCTYPE HTML>
       <p class="center">Rubyを仕事で扱うプログラマーや</p>
       <p class="center">Rubyを学んでみたい初心者が集まって色々やるコミュニティです</p>
       <p class="center">毎月第三火曜日の19時から</p>
-      <p class="center">浜田公民館(浜田市殿町6-1)にて開催しています</p>
-      <p class="center">次回は9月8日(火)です</p>
+      <p class="center">Zoomにて開催しています</p>
+      <p class="center">次回は10月13日(火)です</p>
     </div>
   </div>
 
